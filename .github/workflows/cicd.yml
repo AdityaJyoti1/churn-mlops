@@ -7,10 +7,10 @@ on:
     branches: [main]
 
 env:
-  PROJECT_ID: upgrad-101-499913
+  PROJECT_ID: upgrad-103
   REGION: asia-south1
   SERVICE_NAME: churn-api
-  GCS_BUCKET: upgrad-101-499913-churn-mlops
+  GCS_BUCKET: upgrad-0103-churn-mlops
   AR_REPO: churn-mlops
 
 jobs:
